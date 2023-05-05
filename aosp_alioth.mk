@@ -28,9 +28,9 @@ PRODUCT_BRAND := Redmi
 PRODUCT_MODEL := M2012K11AG
 
 PRODUCT_BUILD_PROP_OVERRIDES += \
-    PRIVATE_BUILD_DESC="alioth_global-user 13 RKQ1.211001.001 V14.0.4.0.TKHMIXM release-keys"
+    PRIVATE_BUILD_DESC="alioth_global-user 13 TKQ1.220829.002 V14.0.7.0.TKHMIXM release-keys"
 
-BUILD_FINGERPRINT := Redmi/alioth_global/alioth:13/RKQ1.211001.001/V14.0.4.0.TKHMIXM:user/release-keys
+BUILD_FINGERPRINT := POCO/alioth_global/alioth:13/TKQ1.220829.002/V14.0.7.0.TKHMIXM:user/release-keys
 
 PRODUCT_GMS_CLIENTID_BASE := android-xiaomi
 
