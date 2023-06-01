@@ -25,6 +25,9 @@ TARGET_RECOVERY_DEVICE_MODULES := init_xiaomi_alioth
 # Kernel
 TARGET_KERNEL_CONFIG := vendor/alioth_defconfig
 
+# Leica
+BOARD_VENDOR_SEPOLICY_DIRS += vendor/xiaomi/alioth-leica/sepolicy/vendor
+
 # OTA assert
 TARGET_OTA_ASSERT_DEVICE := alioth,aliothin
 
